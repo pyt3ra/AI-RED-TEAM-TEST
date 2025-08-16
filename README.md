@@ -2,8 +2,8 @@ To use this template for your own project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<Attacker Org>/ai_project_template.git your_project_name
-   cd your_project_name
+   git clone https://github.com/pyt3ra/AI-RED-TEAM-TEST.git AI-RED-TEAM-TEST
+   cd AI-RED-TEAM-TEST
    ```
 2. Customize the Project
 
